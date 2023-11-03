@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.EncuestaDojo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.EncuestaDojo.props",
+      "PackagePath": "build\\EncuestaDojo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.EncuestaDojo.props",
+      "PackagePath": "buildMultiTargeting\\EncuestaDojo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.EncuestaDojo.props",
+      "PackagePath": "buildTransitive\\EncuestaDojo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

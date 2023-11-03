@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "PsFp/WTsmRyawBTrNzLe0+Evb1sXZh6y1kE62w8C6ds=",
+  "Source": "EncuestaDojo",
+  "BasePath": "_content/EncuestaDojo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EncuestaDojo\\wwwroot",
+      "Source": "EncuestaDojo",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\wwwroot\\",
+      "BasePath": "_content/EncuestaDojo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\wwwroot\\css\\styles.css",
+      "SourceId": "EncuestaDojo",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\wwwroot\\",
+      "BasePath": "_content/EncuestaDojo",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}

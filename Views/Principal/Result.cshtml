@@ -1,0 +1,32 @@
+@{
+    ViewData["Title"] = "Resultados Encuesta";
+}
+
+<!DOCTYPE html>
+<html>
+
+<head>
+    <title>Resultado</title>
+    <link rel="stylesheet" href="~/css/styles.css" />
+</head>
+
+<body>
+    <h1>Resultados de la Encuesta</h1>
+    <h1>Resultados de la Encuesta</h1>
+    <div class="container">
+        <h2>Información enviada:</h2>
+        <p>Nombre: @TempData["Nombre"]</p>
+        <p>Localización: @TempData["Localizacion"]</p>
+        <p>Lenguaje Favorito: @TempData["Lenguaje"]</p>
+        <p>Comentario: @TempData["Comentario"]</p>
+        <form method="get" asp-controller="Principal" asp-action="NewIndex">
+            <button type="submit">Go Back</button>
+        </form>
+
+
+
+
+    </div>
+</body>
+
+</html>
