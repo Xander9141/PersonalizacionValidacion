@@ -15,4 +15,7 @@ public class Survey
 
     [MinLength(20, ErrorMessage = "El Comentario debe tener al menos 20 caracteres.")]
     public string Comentario { get; set; }
+
+    [FutureDate(ErrorMessage = "La fecha debe ser en el futuro")]
+    public DateTime DateInFuture { get; set; }
 }

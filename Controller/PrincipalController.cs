@@ -12,20 +12,17 @@ namespace EncuestaDojo.Controllers
         }
 
         [HttpPost]
-        public IActionResult ProcesaEncuesta(Survey survey)
-        {
-            if (!ModelState.IsValid)
-            {
-                return View("Index"); 
-            }
+public IActionResult ProcesaEncuesta(Survey survey)
+{
+    if (!ModelState.IsValid)
+    {
+        return View("Index", survey);
+    }
 
-            TempData["Nombre"] = survey.Nombre;
-            TempData["Localizacion"] = survey.Localizacion;
-            TempData["Lenguaje"] = survey.Lenguaje;
-            TempData["Comentario"] = survey.Comentario;
+    // Resto de tu lógica para procesar la encuesta
+    return View("Result", survey);
+}
 
-            return RedirectToAction("Result");
-        }
 
         [HttpGet]
         [Route("result")]
@@ -47,3 +44,4 @@ namespace EncuestaDojo.Controllers
         }
     }
 }
+

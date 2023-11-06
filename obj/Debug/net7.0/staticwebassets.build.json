@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "ZiBjN0dQNrTtyoXjXo/w7iYkCQmqnQQNMk1DLWOSzwI=",
+  "Hash": "cLpmf2zC8ufNfjtYKS7GHoqfbxkenNGeeu0zyHjZcZ8=",
   "Source": "EncuestaDojo",
   "BasePath": "_content/EncuestaDojo",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "EncuestaDojo\\wwwroot",
       "Source": "EncuestaDojo",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 2\\EncuestaDojo\\wwwroot\\",
       "BasePath": "_content/EncuestaDojo",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\wwwroot\\css\\styles.css",
+      "Identity": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 2\\EncuestaDojo\\wwwroot\\css\\styles.css",
       "SourceId": "EncuestaDojo",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 2\\EncuestaDojo\\wwwroot\\",
       "BasePath": "_content/EncuestaDojo",
       "RelativePath": "css/styles.css",
       "AssetKind": "All",
