@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\EncuestaDojo.csproj": {}
+    "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\EncuestaDojo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\EncuestaDojo.csproj": {
+    "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\EncuestaDojo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\EncuestaDojo.csproj",
+        "projectUniqueName": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\EncuestaDojo.csproj",
         "projectName": "EncuestaDojo",
-        "projectPath": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\EncuestaDojo.csproj",
+        "projectPath": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\EncuestaDojo.csproj",
         "packagesPath": "C:\\Users\\Usuario\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Actividades\\EncuestaDojo\\obj\\",
+        "outputPath": "C:\\Users\\Usuario\\Desktop\\Curso C# .net\\Semana 7\\dia 1\\EncuestaDojo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

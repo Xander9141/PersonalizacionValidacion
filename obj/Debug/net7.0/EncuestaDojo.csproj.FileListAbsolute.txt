@@ -26,3 +26,31 @@ C:\Users\Usuario\Desktop\Curso C# .net\Actividades\EncuestaDojo\obj\Debug\net7.0
 C:\Users\Usuario\Desktop\Curso C# .net\Actividades\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.pdb
 C:\Users\Usuario\Desktop\Curso C# .net\Actividades\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.genruntimeconfig.cache
 C:\Users\Usuario\Desktop\Curso C# .net\Actividades\EncuestaDojo\obj\Debug\net7.0\ref\EncuestaDojo.dll
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\appsettings.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\EncuestaDojo.staticwebassets.runtime.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\EncuestaDojo.exe
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\EncuestaDojo.deps.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\EncuestaDojo.runtimeconfig.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\EncuestaDojo.dll
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\bin\Debug\net7.0\EncuestaDojo.pdb
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.RazorAssemblyInfo.cache
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.RazorAssemblyInfo.cs
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets\msbuild.EncuestaDojo.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets\msbuild.build.EncuestaDojo.props
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.EncuestaDojo.props
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.EncuestaDojo.props
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\scopedcss\bundle\EncuestaDojo.styles.css
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.dll
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\refint\EncuestaDojo.dll
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.pdb
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\EncuestaDojo.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\Curso C# .net\Semana 7\dia 1\EncuestaDojo\obj\Debug\net7.0\ref\EncuestaDojo.dll

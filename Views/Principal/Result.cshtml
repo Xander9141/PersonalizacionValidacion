@@ -1,3 +1,5 @@
+@model Survey
+
 @{
     ViewData["Title"] = "Resultados Encuesta";
 }
@@ -12,20 +14,16 @@
 
 <body>
     <h1>Resultados de la Encuesta</h1>
-    <h1>Resultados de la Encuesta</h1>
     <div class="container">
-        <h2>Información enviada:</h2>
-        <p>Nombre: @TempData["Nombre"]</p>
-        <p>Localización: @TempData["Localizacion"]</p>
-        <p>Lenguaje Favorito: @TempData["Lenguaje"]</p>
-        <p>Comentario: @TempData["Comentario"]</p>
+
+            <p>Nombre: @ViewBag.Nombre</p>
+            <p>Localización: @ViewBag.Localizacion</p>
+            <p>Lenguaje Favorito: @ViewBag.Lenguaje</p>
+            <p>Comentario: @ViewBag.Comentario</p>
+
         <form method="get" asp-controller="Principal" asp-action="NewIndex">
             <button type="submit">Go Back</button>
         </form>
-
-
-
-
     </div>
 </body>
 
