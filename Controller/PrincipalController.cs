@@ -4,7 +4,6 @@ namespace EncuestaDojo.Controllers
 {
     public class PrincipalController : Controller
     {
-
         [HttpGet]
         [Route("")]
         public IActionResult Index()
@@ -12,6 +11,21 @@ namespace EncuestaDojo.Controllers
             return View("Index");
         }
 
+        [HttpPost]
+        public IActionResult ProcesaEncuesta(Survey survey)
+        {
+            if (!ModelState.IsValid)
+            {
+                return View("Index"); 
+            }
+
+            TempData["Nombre"] = survey.Nombre;
+            TempData["Localizacion"] = survey.Localizacion;
+            TempData["Lenguaje"] = survey.Lenguaje;
+            TempData["Comentario"] = survey.Comentario;
+
+            return RedirectToAction("Result");
+        }
 
         [HttpGet]
         [Route("result")]
@@ -24,20 +38,6 @@ namespace EncuestaDojo.Controllers
 
             return View("Result");
         }
-
-        [HttpPost]
-        [Route("/procesa/encuesta")]
-        public IActionResult ProcesaEncuesta(Survey survey)
-        {
-            TempData["Nombre"] = survey.Nombre;
-            TempData["Localizacion"] = survey.Localizacion;
-            TempData["Lenguaje"] = survey.Lenguaje;
-            TempData["Comentario"] = survey.Comentario;
-
-            return RedirectToAction("Result");
-        }
-
-
 
         [HttpGet]
         [Route("newIndex")]
